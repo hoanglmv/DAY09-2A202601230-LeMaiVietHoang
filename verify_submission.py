@@ -86,7 +86,7 @@ def verify_submission():
     # 3. Verify Required Audit Artifacts in Repo Root (README Section 8)
     artifacts = [
         "architecture.md",
-        "individual_5SoCuoiMHV_HoVaTen.md",
+        "individual_01230_LeMaiVietHoang.md",
         "trace.jsonl",
         "metadata.json"
     ]

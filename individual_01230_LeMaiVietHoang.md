@@ -4,8 +4,8 @@
 
 | Thông tin | Nội dung |
 |---|---|
-| Họ và tên | **CẦN NGƯỜI NỘP ĐIỀN** |
-| MSSV | 5 số cuối: `01230` |
+| Họ và tên | **Lê Mai Việt Hoàng** |
+| MSSV | `2A202601230` (5 số cuối: `01230`) |
 | Khóa/Lớp | K4 / E403 |
 | Vai trò chính | Tích hợp pipeline, verifier và kiểm soát artifact nộp bài |
 | Ngày hoàn thành | 2026-08-05 |
@@ -99,6 +99,6 @@ hạn trước khi ghi output. Main chỉ công bố artifact khi đủ 50 case 
 - [x] Nội dung kỹ thuật phản ánh pipeline và kết quả kiểm chứng thực tế.
 - [x] Báo cáo không chứa `.env`, API key, token hoặc secret.
 - [x] Các kết quả được gắn với lệnh hoặc artifact có thể tái hiện.
-- [ ] Họ tên và MSSV đầy đủ đã được người nộp xác nhận (đã xác nhận 5 số cuối `01230`, lớp `E403`).
+- [x] Họ tên và MSSV đầy đủ đã được người nộp xác nhận (đã xác nhận Họ tên: Lê Mai Việt Hoàng, MSSV: 2A202601230, lớp `E403`).
 
-**Người nộp cần điền hai trường nhận dạng ở Mục 1 trước khi commit cuối.**
+**Đã hoàn thành điền đầy đủ thông tin nhận dạng người nộp.**
